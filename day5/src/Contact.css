@@ -1,0 +1,130 @@
+.fl{
+    display:flex;
+}
+.tt{
+    display:flex;
+}
+.a{
+    margin-left:20px ;
+}
+.b{
+    margin-left:34%;
+}
+.a1{
+     width:40%;
+     margin-left:20px;
+}
+.b1{
+    width:40%;
+    margin-left:20px ;
+}
+.eb{
+    display:flex;
+}
+.tt1{
+    display:flex
+}
+.a2{
+    margin-left:20px
+}
+.b2{
+    margin-left:38%;
+}
+.a3{
+    width:40%;
+    margin-left:20px ;
+}
+.b3{
+    width:40%;
+    margin-left:20px ;
+
+}
+.cj{
+    display:flex;
+}
+.tt2{
+    display:flex;
+}
+.a4{
+    margin-left:20px
+}
+.b4{
+    margin-left:29%;
+}
+.a5{
+    width:40%;
+    margin-left:20px;
+}
+.b5{
+    width:40%;
+    margin-left:20px ;
+}
+.r{
+    margin-left:20px;
+}
+.s{
+    width:83%;
+    margin-left:20px
+}
+.cs{
+    display:flex;
+
+}
+.tt3{
+    display:flex;
+
+}
+.a6{
+    margin-left:20px;
+}
+.b6{
+    margin-left:40%;
+}
+.a7{
+    width:40%;
+    margin-left:20px;
+}
+.b7{
+    width:40%;
+    margin-left:20px ;
+}
+
+.zc{
+    display:flex;
+}
+.tt4{
+    display:flex;
+
+}
+.a8{
+    margin-left:20px
+}
+.b8{
+    margin-left:30%;
+}
+.a9{
+    width:40%;
+    margin-left:20px ;
+}
+.b9{
+    width:40%;
+    margin-left:20px ;
+
+}
+.o{
+    margin-left:20px;
+}
+.t{
+    width:83%; 
+    margin-left:20px
+}
+.card{
+    border-color:blueviolet;
+    border:5px;
+    border-radius:15 ;
+    margin:auto;
+    width:800px;
+    background-color: aquamarine;
+    margin-bottom:10px;
+}
+

@@ -1,0 +1,54 @@
+.reg{
+    border:10px black solid;
+    padding:15px;
+    border-radius:10px;
+    width:500px;
+    margin:50px;
+    background-color:black;
+    
+
+}
+.fr{
+    color:white;
+    margin-left:10%;
+    }
+.ab{
+    display:flex;
+    justify-content:space-around;
+    padding:10px;
+}
+.n{
+    justify-content:space around;
+    margin-left:9%;
+    }
+.n input{
+    width:88%
+}
+.c{
+    padding:10px;
+    margin-left:7%;
+}
+.c input{
+    width:90%
+}
+.pn{
+    padding:10px;
+    margin-left:7%;
+}
+.pn input{
+    width:90%
+}
+.e{
+    padding:10px;
+    margin-left:7%;
+}
+.e input{
+    width:90%
+}
+.cr{
+    color:white;
+    background-color:green;
+    margin-left: 70%;
+    padding:10px;
+}
+
