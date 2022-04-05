@@ -1,0 +1,22 @@
+.box1{
+    border:2px solid black;
+    padding:5px;
+    border-radius:5px;
+    margin:4px;
+    background-color:white;
+    justify-content: space-evenly;
+    margin-right:50px;
+    margin-left:200px;
+    margin-bottom:10px;
+    display: flex;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.box1 p{
+        margin-left:200px;
+        font-family: 'Courier New', Courier, monospace;
+}
+.box1 h6{
+    width:500px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}

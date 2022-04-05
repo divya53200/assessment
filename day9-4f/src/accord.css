@@ -1,0 +1,12 @@
+
+.box{
+    border:2px black solid;
+    border:5px;
+    border-radius:3px;
+    margin:auto;
+    width:800px;
+    background-color:lightgrey;
+    margin-bottom:20px;
+    margin-top:150px;
+    
+}
