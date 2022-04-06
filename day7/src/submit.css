@@ -1,0 +1,41 @@
+.w{
+    border-style: dotted;
+    border:3px solid green ;
+    width:600px;
+    margin: auto;
+    margin-top:50px;
+    margin-bottom:50px;
+    
+}
+.s{
+    background-color: blue;
+    color:white;
+}
+.move1{
+    margin-left:70px;
+}
+.move2{
+    margin-left:180px;
+}
+.move3{
+    margin-left:160px;
+}
+.move4{
+    margin-left:15px;
+}
+.move5{
+    margin-left:160px;
+}
+.move6{
+    margin-left:130px;
+    width:100px;
+}
+.o{
+    border:3px solid violet;
+    border-radius:2px;
+    width:350px;
+    margin:auto;
+    margin-top:20px;
+    margin-bottom:450px;
+
+ }
