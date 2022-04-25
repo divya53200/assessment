@@ -1,0 +1,23 @@
+.our{
+    letter-spacing:2px;
+}
+.box{
+    border:0px black solid;
+    border-radius: 1px;
+    
+}
+.name{
+    font-style:bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+.line{
+    font-size: xx-large;
+
+}
+.image{
+    border: solid;
+    color: rgb(91, 187, 243);
+    
+}
+
