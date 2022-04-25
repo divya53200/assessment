@@ -1,0 +1,28 @@
+.review{
+    letter-spacing:2px;
+    color: brown;
+}
+.box{
+    border:0px black solid;
+    border-radius: 1px;
+    
+}
+.name{
+    font-style:bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    letter-spacing: 2px;
+    color: brown;
+}
+
+.image{
+    border: solid;
+    color: gray;
+    
+    
+}
+.but:hover{
+    color:brown;
+
+}
+
