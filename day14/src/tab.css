@@ -1,0 +1,42 @@
+.exp{
+     letter-spacing:2px;
+     font-weight: bolder;
+}
+.line{
+    color: rgb(25, 128, 154);
+    font-size: 50px;
+    line-height: 0em;
+
+}
+.title{
+    letter-spacing:3px;
+    
+}
+.tab{
+    cursor:pointer;
+}
+.tab:hover{
+    color:rgb(36, 153, 203);
+}
+.company{
+    width:100px;
+    background-color: rgb(232, 241, 241);
+    letter-spacing: 2px;
+  
+}
+.date{
+    letter-spacing: 2px;
+    color: rgb(182, 187, 191);
+}
+.info{
+    
+    background-color:rgb(36, 153, 203) ;
+    color:white;
+    text-align: center;
+    max-width:150px;
+    text-align: center;
+}
+.info:hover{
+    color:black;
+    background-color: aqua;
+}

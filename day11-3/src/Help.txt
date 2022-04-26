@@ -1,2 +1,0 @@
-state//storing the things within the component
-props//passing value from one component to another component
